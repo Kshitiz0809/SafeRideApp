@@ -1,2 +1,1 @@
-# No external dependencies required for the current scoring logic
-# Add libraries here (e.g., numpy, pandas) if you expand the math logic later.
+firebase-admin
