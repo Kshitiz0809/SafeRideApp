@@ -1,1 +1,1 @@
-firebase-admin
+firebase-admin>=6.5.0,<7
